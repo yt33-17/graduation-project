@@ -1,0 +1,7 @@
+{
+    "idf.currentSetup": "D:\\esp\\v6.1\\esp-idf",
+    "idf.flashType": "UART",
+    "idf.port": "COM9",
+    "git.ignoreLimitWarning": true,
+    "idf.monitorPort": "COM9"
+}
