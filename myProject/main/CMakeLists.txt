@@ -1,5 +1,5 @@
 idf_component_register(
     SRCS "main.c" 
     INCLUDE_DIRS "."
-    REQUIRES led rc522
+    REQUIRES esp_lcd esp_driver_spi esp_driver_gpio esp_lcd_st7796
 )
